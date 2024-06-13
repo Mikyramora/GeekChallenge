@@ -1,3 +1,3 @@
 # Challenge Geek
 
-<a href="https://luzdalis-lopez.github.io/portafolio/">Visualiza mi Challenge</a>
+<a href="https://mikyramora.github.io/GeekChallenge/">Visualiza mi Challenge</a>
